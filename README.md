@@ -8,11 +8,11 @@
 
 ## 开始阅读
 
-1. [第一章　十里坡毕业不了](new-novel/chapter_01.md)
-2. [第二章　招募临时工](new-novel/chapter_02.md)
-3. [第三章　谁才是带路的](new-novel/chapter_03.md)
-4. [第四章　营地禁止召唤泡面](new-novel/chapter_04.md)
-5. [第五章　水流向了错误的地方](new-novel/chapter_05.md)
+1. [第一章　这经验是不是少了点](new-novel/chapter_01.md)
+2. [第二章　先说好，我不认识里面的路](new-novel/chapter_02.md)
+3. [第三章　不要追出去](new-novel/chapter_03.md)
+4. [第四章　谁说我会做面了](new-novel/chapter_04.md)
+5. [第五章　这次听口令](new-novel/chapter_05.md)
 
 ## 第一卷完整卷纲
 
